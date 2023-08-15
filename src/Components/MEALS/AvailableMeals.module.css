@@ -22,3 +22,18 @@
     transform: translateY(0);
   }
 }
+.loading {
+  position: absolute;
+  top: 55%;
+  left: 47%;
+  z-index: -1 !important;
+  color: black;
+}
+
+.Error {
+  position: absolute;
+  top: 55%;
+  left: 47%;
+  z-index: -1 !important;
+  color: Red;
+}
